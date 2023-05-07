@@ -22,6 +22,7 @@ This is a project that aims to build a deep learning model for classifying Drug 
 ## Data Preprocessing
 
 1. Converting SMILES data of drugs into morgan fingerprint data
+
 [Molecular representations in AI-driven drug discovery: a review and practical guide](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00460-5)
 
 2. The morgan fingerprint data are preprocessed using various NLP techniques, including tokenization, stopword removal, and stemming.
